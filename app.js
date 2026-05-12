@@ -455,7 +455,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "RAJKUMAR SULEN",
     roll: "NDUIBC2572", course: "BCA (4 Years)", section: "SECTION C",
-    meme: "./images/star wars.png", reason: "Star Wars memes never get old" },
+    meme: "images/star wars.png", reason: "Star Wars memes never get old" },
   { name: "SHEETAL THOKCHOM",
     roll: "NDUIBC2573", course: "BCA (4 Years)", section: "SECTION C",
     meme: null, reason: null },
